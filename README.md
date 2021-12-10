@@ -4,13 +4,13 @@ Hello, I'm Stefan and I made this project watching [this video](https://www.yout
 
 ## To Start This Project
 
-### `npm i`
+     npm i
 
 Install all the packages you need by running the command in your terminal.
 
 In the project directory, you can run:
 
-### `npm run start`
+    npm run start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -24,4 +24,6 @@ You will also see any lint errors in the console.
 This project has been made by **Ania Kubów**. You can find her Github [here](https://github.com/kubowania)
 
 Thank you very much Ania <3
+
+
 
